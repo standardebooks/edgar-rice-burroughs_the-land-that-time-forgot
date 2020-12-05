@@ -45,7 +45,7 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">Stranded U-boat survivors and their rescuers contend with dangerous beasts and prehistoric people in a strange lost world.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-                  <p>This trilogy of short novels was originally published in serial form in 1918 in Blue Book Magazine and then in 1924 published as a single volume by A. C. McClurg.  The <a href="https://standardebooks.org/ebooks/edgar-rice-burroughs">Burroughs</a> fan community seems to fall into <a href="http://erblist.com/erblist/lttfsummary.html">two camps</a> about whether the story comprises three separate novellas or is a single novel split into three parts.  This production follows the 1924 precedent in preference to making three short independent books.</p>
+			&lt;p&gt;This trilogy of short novels was originally published in serial form in 1918 in Blue Book Magazine and then in 1924 published as a single volume by A. C. McClurg. The &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Burroughs&lt;/a&gt; fan community seems to fall into &lt;a href="http://erblist.com/erblist/lttfsummary.html"&gt;two camps&lt;/a&gt; about whether the story comprises three separate novellas or is a single novel split into three parts. This production follows the 1924 precedent in preference to making three short independent books.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/551</dc:source>
