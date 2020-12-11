@@ -10,12 +10,12 @@ blockquote.headstone{
 	text-align: center;
 }
 
-#chapter-1-10 footer p{
+footer{
 	margin-top: 1em;
 	text-align: right;
 	font-variant: small-caps;
 }
 
-#chapter-1-10 footer span{
+footer i{
 	font-variant: normal;
 }
