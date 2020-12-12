@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/edgar-rice-burroughs/the-land-that-time-forgot</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2020-12-12T17:56:23Z</dc:date>
+		<meta property="dcterms:modified">2020-12-12T17:56:23Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,10 +45,10 @@
 		<meta property="se:subject">Science Fiction</meta>
 		<dc:description id="description">Stranded U-boat survivors and their rescuers contend with dangerous beasts and prehistoric people in a strange lost world.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Land That Time Forgot&lt;/i&gt; opens with the discovery near Greenland of a floating thermos flask containing a manuscript of castaway Tyler Bowen, Jr. The document recounts a series of adventures that starts with a sea battle against a German U-boat and ends on a mysterious island populated by hostile prehistoric animals and people.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Land That Time Forgot&lt;/i&gt; opens with the discovery near Greenland of a floating thermos flask containing a manuscript by castaway Tyler Bowen, Jr. The document recounts a series of adventures that starts with a sea battle against a German U-boat and ends on a mysterious island populated by hostile prehistoric animals and people.&lt;/p&gt;
 			&lt;p&gt;The second part of the book, &lt;i&gt;The People That Time Forgot&lt;/i&gt;, continues the story with the tale of Tom Billings, who has been sent on a mission to rescue Bowen after his manuscript was discovered. He flies solo over the mountainous cliffs that encircle the island and is attacked by a monstrous flying reptile, forcing him to crash-land. Billings then attempts to make his way on foot back to the rest of his party while contending with dangerous inhabitants from different stages of human development.&lt;/p&gt;
-			&lt;p&gt;In Part I of the book a crew member, Bradley, is sent out on a scouting expedition to the cliffs and is never heard from again. The final installment of the story, &lt;i&gt;Out of Time's Abyss&lt;/i&gt;, reveals what happened and relates his encounters with horrifying winged humanoids.&lt;/p&gt;
-			&lt;p&gt;This trilogy of short novels was originally published in serial form in 1918 in Blue Book Magazine and then in 1924 published as a single volume by A. C. McClurg. The &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Burroughs&lt;/a&gt; fan community seems to fall into &lt;a href="http://erblist.com/erblist/lttfsummary.html"&gt;two camps&lt;/a&gt; about whether the story comprises three separate novellas or is a single novel split into three parts. This production follows the 1924 precedent in preference to making three short independent books.&lt;/p&gt;
+			&lt;p&gt;The final installment of the story, “Out of Time’s Abyss,” reveals what happened to Bradley, a crew member who was sent on a scouting expedition earlier in the story and was never heard from again.&lt;/p&gt;
+			&lt;p&gt;This trilogy of short novels was originally published serially in 1918 in &lt;i&gt;Blue Book Magazine&lt;/i&gt;. In 1924 they were published in a single volume by A. C. McClurg. The &lt;a href="https://standardebooks.org/ebooks/edgar-rice-burroughs"&gt;Burroughs&lt;/a&gt; fan community seems to fall into two camps about whether the story comprises three separate novellas, or whether it’s a single novel divided into three parts. This production follows the 1924 edition of combining the three into a single novel.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/551</dc:source>
@@ -56,8 +56,8 @@
 		<dc:source>https://www.gutenberg.org/ebooks/553</dc:source>
 		<dc:source>https://books.google.com/books?id=wW8GAQAAIAAJ</dc:source>
 		<meta property="se:production-notes">We don't have the scans that the transcription used so we are using a 1924 edition that collects these three novellas into one book, which makes sense for us because they are individually rather short.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">112001</meta>
+		<meta property="se:reading-ease.flesch">65.86</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Land_That_Time_Forgot_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_the-land-that-time-forgot</meta>
 		<dc:creator id="author">Edgar Rice Burroughs</dc:creator>
@@ -84,6 +84,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
