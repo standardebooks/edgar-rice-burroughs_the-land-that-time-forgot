@@ -19,3 +19,7 @@ footer{
 footer i{
 	font-variant: normal;
 }
+
+#chapter-1-1 blockquote{
+	font-style: italic;
+}
