@@ -56,7 +56,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/553</dc:source>
 		<dc:source>https://books.google.com/books?id=wW8GAQAAIAAJ</dc:source>
 		<meta property="se:production-notes">We don't have the scans that the transcription used so we are using a 1924 edition that collects these three novellas into one book, which makes sense for us because they are individually rather short.</meta>
-		<meta property="se:word-count">112001</meta>
+		<meta property="se:word-count">111487</meta>
 		<meta property="se:reading-ease.flesch">65.86</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Land_That_Time_Forgot_(novel)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/edgar-rice-burroughs_the-land-that-time-forgot</meta>
