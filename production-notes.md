@@ -1,0 +1,1 @@
+We don't have the scans that the transcription used so we are using a 1924 edition that collects these three novellas into one book, which makes sense for us because they are individually rather short.
